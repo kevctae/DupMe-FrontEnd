@@ -1,0 +1,1 @@
+global.d4_pressed = false

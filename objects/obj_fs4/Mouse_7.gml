@@ -1,0 +1,1 @@
+global.fs4_pressed = false

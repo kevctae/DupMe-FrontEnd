@@ -1,0 +1,1 @@
+global.c4_pressed = false

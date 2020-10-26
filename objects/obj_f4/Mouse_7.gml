@@ -1,0 +1,1 @@
+global.f4_pressed = false

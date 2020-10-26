@@ -1,0 +1,1 @@
+global.ds4_pressed = false
