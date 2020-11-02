@@ -14,7 +14,7 @@ if (global.open_waiting_room) {
 			break;
 		case STATUS.wait_for_your_readiness:
 			display_color = c_lime;
-			display_text = "Press me\ntoready!!";
+			display_text = "Press me\nto ready!!";
 			break;
 		case STATUS.wait_for_other_ready:
 			display_color = c_lime;

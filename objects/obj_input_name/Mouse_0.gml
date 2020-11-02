@@ -1,1 +1,1 @@
-global.player1_name = get_string("Please enter a name!", "Anonymous");
+global.player1_name = get_string_async("Please enter a name!", "Anonymous");
