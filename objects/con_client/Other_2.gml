@@ -1,0 +1,1 @@
+global.connection_status = CONNECTION.disconnected;

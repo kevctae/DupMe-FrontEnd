@@ -6,7 +6,7 @@
     "path": "folders/Scripts/Networks.yy",
   },
   "resourceVersion": "1.0",
-  "name": "received_packet",
+  "name": "connect_server",
   "tags": [],
   "resourceType": "GMScript",
 }

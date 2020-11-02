@@ -1,4 +1,4 @@
-enum e_connection {
+enum CONNECTION {
 	disconnected,
 	connecting,
 	connected,

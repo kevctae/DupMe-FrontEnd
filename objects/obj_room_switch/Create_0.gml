@@ -1,3 +1,1 @@
-
-global.rm = "home";
-
+global.rm = "piano";

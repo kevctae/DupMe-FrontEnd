@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_blackkey",
-    "path": "sprites/spr_blackkey/spr_blackkey.yy",
+    "name": "spr_hitbox",
+    "path": "sprites/spr_hitbox/spr_hitbox.yy",
   },
   "solid": false,
   "visible": true,
@@ -22,10 +22,8 @@
   "physicsShapePoints": [],
   "eventList": [
     {"isDnD":false,"eventNum":0,"eventType":8,"collisionObjectId":null,"parent":{"name":"obj_start","path":"objects/obj_start/obj_start.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"obj_start","path":"objects/obj_start/obj_start.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":68,"eventType":7,"collisionObjectId":null,"parent":{"name":"obj_start","path":"objects/obj_start/obj_start.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":4,"eventType":6,"collisionObjectId":null,"parent":{"name":"obj_start","path":"objects/obj_start/obj_start.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":13,"eventType":9,"collisionObjectId":null,"parent":{"name":"obj_start","path":"objects/obj_start/obj_start.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"parent":{"name":"obj_start","path":"objects/obj_start/obj_start.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
