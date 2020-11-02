@@ -31,8 +31,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "piano",
-    "path": "folders/Objects/piano.yy",
+    "name": "Piano Objects",
+    "path": "folders/Objects/Piano/Piano Objects.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_c4",

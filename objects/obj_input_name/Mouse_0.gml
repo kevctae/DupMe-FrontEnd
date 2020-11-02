@@ -1,0 +1,1 @@
+global.player1_name = get_string("Please enter a name!", "Anonymous");

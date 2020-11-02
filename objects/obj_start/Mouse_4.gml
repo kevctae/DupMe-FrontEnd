@@ -1,3 +1,1 @@
-if (global.connection_status == CONNECTION.disconnected) {
-	connect_server();
-}
+global.open_waiting_room = !global.open_waiting_room;

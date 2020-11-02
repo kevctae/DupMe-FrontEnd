@@ -6,7 +6,7 @@
     "path": "folders/Scripts/Networks/Network events.yy",
   },
   "resourceVersion": "1.0",
-  "name": "player_event_notification",
+  "name": "status_read",
   "tags": [],
   "resourceType": "GMScript",
 }

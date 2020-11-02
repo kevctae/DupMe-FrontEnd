@@ -1,2 +1,3 @@
 global.connection_status = CONNECTION.disconnected;
-global.num_player = 0;
+global.open_waiting_room = false;
+global.player_status = STATUS.disconnected;

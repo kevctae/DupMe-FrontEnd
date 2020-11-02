@@ -6,10 +6,8 @@ with(con_client) {
 			break;
 		case NETWORK.game_round:
 			break;
-		case NETWORK.player_event:
-			player_event_notification(buffer);
-			break;
 		case NETWORK.status:
+			status_read(buffer);
 			break;
 	}
 }
