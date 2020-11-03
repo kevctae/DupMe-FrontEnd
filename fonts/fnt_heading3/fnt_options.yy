@@ -5,7 +5,7 @@
   "pointRounding": 0,
   "fontName": "Pixelated",
   "styleName": "Regular",
-  "size": 32.0,
+  "size": 48.0,
   "bold": false,
   "italic": false,
   "charset": 0,
@@ -123,7 +123,7 @@
     {"lower":32,"upper":127,},
     {"lower":9647,"upper":9647,},
   ],
-  "regenerateBitmap": true,
+  "regenerateBitmap": false,
   "canGenerateBitmap": true,
   "maintainGms1Font": false,
   "parent": {
@@ -131,7 +131,7 @@
     "path": "folders/Fonts.yy",
   },
   "resourceVersion": "1.0",
-  "name": "fnt_player",
+  "name": "fnt_options",
   "tags": [],
   "resourceType": "GMFont",
 }

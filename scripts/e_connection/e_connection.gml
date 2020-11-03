@@ -1,4 +1,0 @@
-enum CONNECTION {
-	disconnected,
-	connected,
-}

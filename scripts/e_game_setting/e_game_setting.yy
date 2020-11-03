@@ -6,7 +6,7 @@
     "path": "folders/Scripts/Enumerators.yy",
   },
   "resourceVersion": "1.0",
-  "name": "e_connection",
+  "name": "e_game_setting",
   "tags": [],
   "resourceType": "GMScript",
 }

@@ -4,7 +4,8 @@ enum NETWORK {
 	game_round,
 	player_event,
 	player_config,
-	player_establish
+	player_establish,
+	game_setting,
 }
 
 enum CONFIG {
