@@ -5,7 +5,8 @@ enum GAME_SETTING {
 	 arm_sound,
 	 set_conducting_time,
 	 set_number_of_round,
-	 wallpaper
+	 wallpaper,
+	 hardness
 }
 
 enum PERFECT_PITCH {
@@ -40,4 +41,10 @@ enum SET_NUMBER_OF_ROUND {
 	 number_of_round_3,
 	 number_of_round_4,
 	 number_of_round_5
+}
+
+enum HARDNESS {
+	easy,
+	normal,
+	hard,
 }
