@@ -22,9 +22,9 @@ if (global.open_waiting_room) {
 				display_color = c_lime;
 				display_text = "Press Start!!";
 				break;
-			case STATUS.wait_for_other_ready:
+			case STATUS.wait_for_ready:
 				display_color = c_lime;
-				display_text = "Waiting for\nanother player..";
+				display_text = "Wait ready..";
 				break;
 		}
 	}
