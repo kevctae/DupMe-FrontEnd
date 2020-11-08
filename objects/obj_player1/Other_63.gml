@@ -5,7 +5,8 @@ if i_d == msg
       {
       if ds_map_find_value(async_load, "result") != ""
          {
-         global.player1_name = ds_map_find_value(async_load, "result");
+			global.player1_name = ds_map_find_value(async_load, "result");
+			send_player_name();
          }
       }
    }
