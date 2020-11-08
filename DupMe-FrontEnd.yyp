@@ -34,6 +34,7 @@
     {"id":{"name":"snd_b5","path":"sounds/snd_b5/snd_b5.yy",},"order":2,},
     {"id":{"name":"obj_edged4","path":"objects/obj_edged4/obj_edged4.yy",},"order":14,},
     {"id":{"name":"snd_fs4","path":"sounds/snd_fs4/snd_fs4.yy",},"order":16,},
+    {"id":{"name":"send_settings","path":"scripts/send_settings/send_settings.yy",},"order":3,},
     {"id":{"name":"fnt_options","path":"fonts/fnt_options/fnt_options.yy",},"order":2,},
     {"id":{"name":"snd_ashigh","path":"sounds/snd_ashigh/snd_ashigh.yy",},"order":1,},
     {"id":{"name":"obj_edgef4","path":"objects/obj_edgef4/obj_edgef4.yy",},"order":17,},

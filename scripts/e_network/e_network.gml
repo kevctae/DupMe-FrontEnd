@@ -8,7 +8,7 @@ enum NETWORK {
 	game_setting,
 }
 
-enum CONFIG {
+enum PLAYER_CONFIG {
 	name, //client sends to server
 	role, //server randomly assigns
 }

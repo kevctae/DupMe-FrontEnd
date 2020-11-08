@@ -43,6 +43,12 @@ enum SET_NUMBER_OF_ROUND {
 	 number_of_round_5
 }
 
+enum WALLPAPER {
+	overworld,
+	nether,
+	theend,
+}
+
 enum HARDNESS {
 	easy,
 	normal,
