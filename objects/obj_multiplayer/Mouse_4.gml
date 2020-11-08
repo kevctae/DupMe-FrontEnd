@@ -1,4 +1,6 @@
-//var status = connect_server();
+if (global.player_status = STATUS.disconnected) {
+	connect_server();
+}
 global.open_waiting_room = true;
 global.game_mode = GAME_MODE.multiplayer;
 global.open_setting_room = false;

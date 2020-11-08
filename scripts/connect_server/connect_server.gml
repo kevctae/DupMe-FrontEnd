@@ -1,7 +1,7 @@
 function connect_server() 
 {
 	client = network_create_socket(network_socket_tcp);
-	connected = network_connect(client, "192.168.1.104", 7889);
+	connected = network_connect(client, "192.168.1.50", 7889);
 	if (connected == 0) {
 		return true;
 	} else {
