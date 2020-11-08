@@ -68,8 +68,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"0a937b0c-1d17-4930-bf13-1ee268877620","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "DupMe-Frontend",
-    "path": "DupMe-Frontend.yyp",
+    "name": "DupMe-FrontEnd",
+    "path": "DupMe-FrontEnd.yyp",
   },
   "resourceVersion": "1.0",
   "name": "Sprite11",
