@@ -1,2 +1,2 @@
-display_color = c_white;
-display_text = "Apply";
+display_color = c_yellow;
+display_text = "<Back";
