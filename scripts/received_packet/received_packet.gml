@@ -9,5 +9,8 @@ with(con_client) {
 		case NETWORK.status:
 			status_read(buffer);
 			break;
+		case NETWORK.player_config:
+			player_config(buffer);
+			break;
 	}
 }

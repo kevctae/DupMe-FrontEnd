@@ -2,8 +2,8 @@
   "isDnD": false,
   "isCompatibility": false,
   "parent": {
-    "name": "Network events",
-    "path": "folders/Scripts/Networks/Network events.yy",
+    "name": "Recieve",
+    "path": "folders/Scripts/Networks/Network events/Recieve.yy",
   },
   "resourceVersion": "1.0",
   "name": "status_read",
