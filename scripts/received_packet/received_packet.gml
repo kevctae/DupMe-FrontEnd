@@ -12,5 +12,8 @@ with(con_client) {
 		case NETWORK.player_config:
 			player_config(buffer);
 			break;
+		case NETWORK.game_setting:
+			game_setting(buffer);
+			break;
 	}
 }
