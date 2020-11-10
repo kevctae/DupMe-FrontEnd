@@ -20,11 +20,15 @@ if (global.open_waiting_room) {
 				break;
 			case STATUS.wait_for_your_readiness:
 				display_color = c_lime;
-				display_text = "Press Start!!";
+				display_text = "Press Ready!!";
 				break;
 			case STATUS.wait_for_ready:
 				display_color = c_lime;
-				display_text = "Wait ready..";
+				display_text = "Wait ready...";
+				break;
+			case STATUS.ready_pressed:
+				display_color = c_lime;
+				display_text = "Press Start!!";
 				break;
 		}
 	}

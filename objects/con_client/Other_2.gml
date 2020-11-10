@@ -4,6 +4,7 @@ global.player_status = STATUS.disconnected;
 global.game_mode = GAME_MODE.null;
 global.button = 0;
 global.player2_name = "";
+global.timer = 0
 
 global.perfect_pitch = PERFECT_PITCH.false;
 global.instrument = INSTRUMENT.piano;

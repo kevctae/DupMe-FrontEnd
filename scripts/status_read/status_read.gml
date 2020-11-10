@@ -8,5 +8,8 @@ function status_read(buffer) {
 		case STATUS.wait_for_your_readiness:
 			send_player_name();
 			break;
+		case STATUS.conducter_mode_start:
+			start_round();
+			break;
 	}
 }

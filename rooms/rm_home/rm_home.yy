@@ -31,7 +31,6 @@
       ],"visible":false,"depth":100,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Instances_Waiting_Room","tags":[],"resourceType":"GMRInstanceLayer",},
     {"instances":[
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_multiplayer","path":"objects/obj_multiplayer/obj_multiplayer.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":4.5,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":608.0,"y":704.0,"resourceVersion":"1.0","name":"inst_1C5038E1","tags":[],"resourceType":"GMRInstance",},
-        {"properties":[],"isDnd":false,"objectId":{"name":"obj_room_switch","path":"objects/obj_room_switch/obj_room_switch.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":0.0,"y":704.0,"resourceVersion":"1.0","name":"inst_1266211F","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"con_client","path":"objects/con_client/con_client.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":0.0,"y":736.0,"resourceVersion":"1.0","name":"inst_24D078D4","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_singleplayer","path":"objects/obj_singleplayer/obj_singleplayer.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":5.5,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":160.0,"y":704.0,"resourceVersion":"1.0","name":"inst_2C48BAFB","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_practice","path":"objects/obj_practice/obj_practice.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":3.5,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":992.0,"y":704.0,"resourceVersion":"1.0","name":"inst_5911AE63","tags":[],"resourceType":"GMRInstance",},
@@ -511,7 +510,6 @@
   "inheritCode": false,
   "instanceCreationOrder": [
     {"name":"inst_1C5038E1","path":"rooms/rm_home/rm_home.yy",},
-    {"name":"inst_1266211F","path":"rooms/rm_home/rm_home.yy",},
     {"name":"inst_24D078D4","path":"rooms/rm_home/rm_home.yy",},
     {"name":"inst_2C48BAFB","path":"rooms/rm_home/rm_home.yy",},
     {"name":"inst_5911AE63","path":"rooms/rm_home/rm_home.yy",},

@@ -38,6 +38,7 @@ enum STATUS {
 	during_conducter_game,
 	during_player_game,
 	disconnected,
+	start_pressed,
 }
 
 enum MODE {

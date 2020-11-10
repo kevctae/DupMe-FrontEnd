@@ -4,5 +4,8 @@ function player_config(buffer)
 		case PLAYER_CONFIG.name:
 			global.player2_name = buffer_read(buffer, buffer_string);
 			break;
+		case PLAYER_CONFIG.role:
+			global.player_role = buffer_read(buffer, buffer_u8);
+			break;
 	}
 }

@@ -5,6 +5,7 @@ with(con_client) {
 		case NETWORK.game_mode:
 			break;
 		case NETWORK.game_round:
+			global.game_round = buffer_read(buffer, buffer_u8);
 			break;
 		case NETWORK.status:
 			status_read(buffer);
