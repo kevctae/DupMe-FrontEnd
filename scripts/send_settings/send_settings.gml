@@ -2,7 +2,6 @@ function send_settings()
 {
 	buffer_seek(global.client_buffer, buffer_seek_start, 0);
 	buffer_write(global.client_buffer, buffer_u8, NETWORK.game_setting);
-	buffer_write(global.client_buffer, buffer_u8, PLAYER_CONFIG.name);
 	buffer_write(global.client_buffer, buffer_u8, global.perfect_pitch);
 	buffer_write(global.client_buffer, buffer_u8, global.instrument);
 	buffer_write(global.client_buffer, buffer_u8, global.octave);
