@@ -1,0 +1,4 @@
+function start_ai() 
+{
+	
+}
