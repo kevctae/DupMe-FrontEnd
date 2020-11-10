@@ -10,14 +10,14 @@
     "name": "audiogroup_default",
     "path": "audiogroups/audiogroup_default",
   },
-  "soundFile": "snd_armfs.mp3",
+  "soundFile": "snd_armf4.mp3",
   "duration": 2.826224,
   "parent": {
     "name": "arm",
     "path": "folders/Sounds/arm.yy",
   },
   "resourceVersion": "1.0",
-  "name": "snd_armfs",
+  "name": "snd_armf4",
   "tags": [],
   "resourceType": "GMSound",
 }

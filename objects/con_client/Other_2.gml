@@ -2,6 +2,7 @@ global.open_waiting_room = false;
 global.open_setting_room = false;
 global.player_status = STATUS.disconnected;
 global.game_mode = GAME_MODE.null;
+global.button = 0;
 global.player2_name = "";
 
 global.perfect_pitch = PERFECT_PITCH.false;

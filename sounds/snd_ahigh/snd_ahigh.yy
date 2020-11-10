@@ -13,8 +13,8 @@
   "soundFile": "snd_ahigh.wav",
   "duration": 1.311259,
   "parent": {
-    "name": "arm",
-    "path": "folders/Sounds/arm.yy",
+    "name": "piano",
+    "path": "folders/Sounds/piano.yy",
   },
   "resourceVersion": "1.0",
   "name": "snd_ahigh",
