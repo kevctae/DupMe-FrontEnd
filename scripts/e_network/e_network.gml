@@ -21,6 +21,7 @@ enum PLAYER_EVENT {
 enum GAME_ROUND {
 	conducter,
 	player,
+	number,
 }
 
 enum ROLE {

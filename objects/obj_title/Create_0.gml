@@ -1,5 +1,6 @@
 display_text = "";
 display_color = c_white;
+audio_play_sound(snd_start, 0, 0);
 if (global.player_role == ROLE.conducter) {
 	display_text = "You are a conductor!";
 	display_color = c_red;
@@ -9,4 +10,4 @@ if (global.player_role == ROLE.conducter) {
 }
 alpha = 1;
 fade_out = false;
-alarm[0] = 120; // Time in frames
+alarm[0] = 210; // Time in frames
