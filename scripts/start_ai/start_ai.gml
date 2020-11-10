@@ -14,4 +14,33 @@ function start_ai()
 			global.timer = 20;
 			break;
 	}
+	
+	var limit = 0;
+	if (global.octave == OCTAVE.true) {
+		limit = 23
+	}
+	
+	global.stored_ai_keys = [];
+	global.i = 0;
+	while (global.timer > 10) {
+		var pause = 0;
+		switch global.hardness {
+			case HARDNESS.easy:
+				pause = 60;
+				break;
+			case HARDNESS.normal:
+				pause = 30;
+				break;
+			case HARDNESS.hard:
+				pause = 15;
+				break;
+		}
+		
+		randomize();
+		var random = irandom(limit);
+		play_note(random);
+		global.stored_ai_keys[global.i++] = random;
+		
+		
+	}
 }
