@@ -5,6 +5,7 @@ global.game_mode = GAME_MODE.null;
 global.button = 0;
 global.player2_name = "";
 global.timer = 0
+global.allow_key = false;
 
 global.perfect_pitch = PERFECT_PITCH.false;
 global.instrument = INSTRUMENT.piano;

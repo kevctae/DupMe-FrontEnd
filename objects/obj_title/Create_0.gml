@@ -12,9 +12,10 @@ if (global.game_mode == GAME_MODE.multiplayer) {
 	alpha = 1;
 	fade_out = false;
 	alarm[0] = 210; // Time in frames
-} else if (global.game_mode == GAME_MODE.singleplayer {
+} else if (global.game_mode == GAME_MODE.singleplayer) {
 	display_text = "You are a player!";
 	display_color = c_blue;
+	audio_play_sound(snd_start, 0, 0);
 	alpha = 1;
 	fade_out = false;
 	alarm[0] = 210; // Time in frames

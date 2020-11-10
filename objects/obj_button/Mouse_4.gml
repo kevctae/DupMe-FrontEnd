@@ -9,4 +9,5 @@ if (global.game_mode = GAME_MODE.multiplayer) {
 	}
 } else {
 	start_round();
+	global.game_mode = GAME_MODE.singleplayer;
 }
