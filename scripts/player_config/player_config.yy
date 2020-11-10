@@ -2,11 +2,11 @@
   "isDnD": false,
   "isCompatibility": false,
   "parent": {
-    "name": "Send",
-    "path": "folders/Scripts/Networks/Network events/Send.yy",
+    "name": "Recieve",
+    "path": "folders/Scripts/Networks/Network events/Recieve.yy",
   },
   "resourceVersion": "1.0",
-  "name": "send_player_name",
+  "name": "player_config",
   "tags": [],
   "resourceType": "GMScript",
 }

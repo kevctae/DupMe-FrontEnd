@@ -6,7 +6,7 @@
     "path": "folders/Scripts/Networks/Network events/Send.yy",
   },
   "resourceVersion": "1.0",
-  "name": "send_player_name",
+  "name": "send_settings",
   "tags": [],
   "resourceType": "GMScript",
 }

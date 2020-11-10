@@ -1,0 +1,1 @@
+global.open_waiting_room = false;

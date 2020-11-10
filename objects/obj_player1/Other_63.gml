@@ -5,7 +5,10 @@ if i_d == msg
       {
       if ds_map_find_value(async_load, "result") != ""
          {
-         global.player1_name = ds_map_find_value(async_load, "result");
+			global.player1_name = ds_map_find_value(async_load, "result");
+			if (global.game_mode == GAME_MODE.multiplayer) {
+				send_player_name();
+			}
          }
       }
    }
