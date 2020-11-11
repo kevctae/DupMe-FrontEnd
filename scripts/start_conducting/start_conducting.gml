@@ -13,4 +13,8 @@ function start_conducting() {
 			global.timer = 20;
 			break;
 	}
+	
+	if (global.player_role == ROLE.conducter) {
+		global.allow_key = true;
+	}
 }
