@@ -6,6 +6,12 @@ global.button = 0;
 global.player2_name = "";
 global.timer = 0
 global.allow_key = false;
+global.ai_conduct = false;
+global.note_played = false;
+global.i = 0;
+global.stored_ai_keys = [];
+global.player_play = false;
+global.player1_score = 0;
 
 global.perfect_pitch = PERFECT_PITCH.false;
 global.instrument = INSTRUMENT.piano;

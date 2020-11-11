@@ -5,4 +5,7 @@ if (global.allow_key) {
 	if (global.player_status == STATUS.conducter_mode_start && global.player_role == ROLE.conducter) {
 		send_note(PIANOKEYS.c);
 	}
+	if (global.player_play) {
+		check_key_correct(PIANOKEYS.c);
+	}
 }
