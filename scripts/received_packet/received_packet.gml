@@ -5,6 +5,7 @@ with(con_client) {
 		case NETWORK.game_mode:
 			break;
 		case NETWORK.game_round:
+			show_message("eses");
 			game_round(buffer);
 			break;
 		case NETWORK.status:

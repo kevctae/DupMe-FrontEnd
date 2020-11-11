@@ -7,6 +7,7 @@ function game_round(buffer) {
 		case GAME_ROUND.player:
 			break;
 		case GAME_ROUND.number:
+			show_message("What")
 			global.game_round = buffer_read(buffer, buffer_u8);
 			break;
 	}
