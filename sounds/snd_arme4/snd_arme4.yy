@@ -10,8 +10,8 @@
     "name": "audiogroup_default",
     "path": "audiogroups/audiogroup_default",
   },
-  "soundFile": "snd_arme4",
-  "duration": 0.0,
+  "soundFile": "snd_arme4.mp3",
+  "duration": 2.225408,
   "parent": {
     "name": "arm",
     "path": "folders/Sounds/arm.yy",

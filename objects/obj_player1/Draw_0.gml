@@ -1,4 +1,2 @@
 draw_set_font(fnt_player);
-draw_set_color(c_red);
-
-draw_text(x, y, string(global.player1_name) + ": " + string(global.player1_score));
+draw_text_color(x, y, display_text, display_color, display_color, display_color, display_color, 1);

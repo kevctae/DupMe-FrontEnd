@@ -1,0 +1,12 @@
+global.c4_pressed = false;
+global.cs4_pressed = false;
+global.d4_pressed = false;
+global.ds4_pressed = false;
+global.e4_pressed = false;
+global.f4_pressed = false;
+global.fs4_pressed = false;
+global.g4_pressed = false;
+global.gs4_pressed = false;
+global.a5_pressed = false;
+global.as5_pressed = false;
+global.b5_pressed = false;

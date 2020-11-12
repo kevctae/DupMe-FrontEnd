@@ -1,5 +1,5 @@
-if (global.d4_pressed) {
-	image_index = 1;
+if (global.d4_pressed && global.perfect_pitch == PERFECT_PITCH.false) {
+	image_index = global.button;
 }
 else {
 	image_index = 0;

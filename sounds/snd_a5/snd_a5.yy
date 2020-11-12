@@ -13,8 +13,8 @@
   "soundFile": "snd_a5.wav",
   "duration": 1.408741,
   "parent": {
-    "name": "arm",
-    "path": "folders/Sounds/arm.yy",
+    "name": "piano",
+    "path": "folders/Sounds/piano.yy",
   },
   "resourceVersion": "1.0",
   "name": "snd_a5",

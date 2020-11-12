@@ -1,2 +1,2 @@
-global.player2_score = 0;
-global.player2_name = "Ghandhi";
+display_color = c_white;
+display_text = "";

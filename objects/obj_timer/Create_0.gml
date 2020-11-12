@@ -1,6 +1,8 @@
-/// @DnDAction : YoYo Games.Common.Set_Global
-/// @DnDVersion : 1
-/// @DnDHash : 5A16042C
-/// @DnDArgument : "value" "20"
-/// @DnDArgument : "var" "timer"
-global.timer = 20;
+switch global.game_mode {
+	case GAME_MODE.practice:
+		draw_set_alpha(0);
+		break;
+	default:
+		draw_set_alpha(1);
+		break;
+}
