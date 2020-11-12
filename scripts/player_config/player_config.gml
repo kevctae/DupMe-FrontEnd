@@ -28,10 +28,12 @@ function player_config(buffer)
 		case PLAYER_CONFIG.right_keys:
 			global.timer = 0;
 			if (global.player_role == ROLE.conducter) {
+				global.player2_score++;
 				show_message(global.player2_name + " got all perfect!");
 				send_reset();
 			} else {
 				global.allow_key = false;
+				global.player1_score++;
 				show_message("What a perfection!");
 				send_reset();
 			}
