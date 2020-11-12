@@ -48,6 +48,7 @@ enum STATUS {
 	conductor_mode_end,
 	player_mode_end,
 	game_ended,
+	game_reset,
 }
 
 enum MODE {
