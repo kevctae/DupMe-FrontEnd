@@ -22,3 +22,5 @@ global.set_conducting_time = SET_CONDUCTING_TIME.conducting_time_10s;
 global.set_number_of_round = SET_NUMBER_OF_ROUND.number_of_round_2;
 global.wallpaper = WALLPAPER.overworld;
 global.hardness = HARDNESS.easy;
+
+audio_group_load(audio_group_load(audiogroup1));

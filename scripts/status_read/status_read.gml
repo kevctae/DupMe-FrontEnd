@@ -35,14 +35,14 @@ function status_read(buffer) {
 		case STATUS.game_ended:
 			if (global.player1_score > global.player2_score) {
 				show_message("You Win!");
-				room_goto(rm_home);
 			} else if (global.player1_score < global.player2_score) {
 				show_message("You Lose...")
-				room_goto(rm_home);
 			} else {
 				show_message("DRAW...")
-				room_goto(rm_home);
 			}
+			global.player1_score = 0;
+			global.player2_score = 0;
+			room_goto(rm_home);
 			break;
 	}
 }

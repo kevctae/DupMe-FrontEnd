@@ -8,5 +8,7 @@ if (global.game_mode != GAME_MODE.multiplayer) {
 	global.stored_ai_keys = [];
 	global.player_play = false;
 	global.player1_score = 0;
+	global.open_setting_room = false;
+	global.open_waiting_room = false;
 
 }

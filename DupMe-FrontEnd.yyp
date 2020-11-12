@@ -44,6 +44,7 @@
     {"id":{"name":"snd_c4","path":"sounds/snd_c4/snd_c4.yy",},"order":4,},
     {"id":{"name":"obj_ai","path":"objects/obj_ai/obj_ai.yy",},"order":6,},
     {"id":{"name":"send_start","path":"scripts/send_start/send_start.yy",},"order":3,},
+    {"id":{"name":"send_player_end","path":"scripts/send_player_end/send_player_end.yy",},"order":8,},
     {"id":{"name":"snd_chigh","path":"sounds/snd_chigh/snd_chigh.yy",},"order":5,},
     {"id":{"name":"obj_edgec4","path":"objects/obj_edgec4/obj_edgec4.yy",},"order":12,},
     {"id":{"name":"snd_bhigh","path":"sounds/snd_bhigh/snd_bhigh.yy",},"order":3,},

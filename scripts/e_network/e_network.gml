@@ -30,7 +30,8 @@ enum GAME_ROUND {
 
 enum ROLE {
 	conducter,
-	player
+	player,
+	null,
 }
 
 enum STATUS {

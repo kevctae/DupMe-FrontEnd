@@ -1,5 +1,5 @@
 if (global.ai_conduct) {
-	limit = 1;
+	limit = 11;
 	if (global.octave == OCTAVE.true) {
 		limit = 23
 	}
