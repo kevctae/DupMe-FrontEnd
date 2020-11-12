@@ -2,7 +2,7 @@ if (global.allow_key) {
 	global.c4_pressed = true
 	audio_play_sound(snd_c4, 0, 0);
 	global.button = 1;
-	if (global.player_status == STATUS.conducter_mode_start) {
+	if (global.game_mode == GAME_MODE.multiplayer) {
 		send_note(PIANOKEYS.c);
 	}
 	if (global.player_play) {

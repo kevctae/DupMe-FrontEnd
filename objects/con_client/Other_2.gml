@@ -12,6 +12,7 @@ global.i = 0;
 global.stored_ai_keys = [];
 global.player_play = false;
 global.player1_score = 0;
+global.player2_score = 0;
 
 global.perfect_pitch = PERFECT_PITCH.false;
 global.instrument = INSTRUMENT.piano;

@@ -2,7 +2,12 @@ if (global.game_mode = GAME_MODE.multiplayer) {
 	display_color = c_white;
 	display_text = "Waiting...";
 	if (global.player2_name != "") {
-		display_text = global.player2_name;	
+		if (global.game_mode == GAME_MODE.singleplayer || global.game_mode == GAME_MODE.multiplayer) {
+			display_text = global.player2_name + ": " + string(global.player2_score);
+		} else {
+			display_text = global.player2_name;
+		}
+		
 	}
 } else if (global.game_mode = GAME_MODE.singleplayer) {
 	switch (global.hardness) {

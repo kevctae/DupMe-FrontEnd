@@ -17,15 +17,17 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [],
+  "eventList": [
+    {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"parent":{"name":"obj_multiplayer_control","path":"objects/obj_multiplayer_control/obj_multiplayer_control.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+  ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Piano Objects",
-    "path": "folders/Objects/Piano/Piano Objects.yy",
+    "name": "Piano",
+    "path": "folders/Objects/Piano.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_connection",
+  "name": "obj_multiplayer_control",
   "tags": [],
   "resourceType": "GMObject",
 }
