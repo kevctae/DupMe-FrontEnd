@@ -1,4 +1,4 @@
-if (global.b5_pressed) {
+if (global.b5_pressed && global.perfect_pitch == PERFECT_PITCH.false) {
 	image_index = global.button;
 }
 else {
