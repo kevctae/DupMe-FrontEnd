@@ -10,8 +10,8 @@
     "name": "audiogroup1",
     "path": "audiogroups/audiogroup1",
   },
-  "soundFile": "snd_bg",
-  "duration": 0.0,
+  "soundFile": "snd_bg.mp3",
+  "duration": 3.101,
   "parent": {
     "name": "arm",
     "path": "folders/Sounds/arm.yy",

@@ -10,8 +10,8 @@
     "name": "audiogroup_default",
     "path": "audiogroups/audiogroup_default",
   },
-  "soundFile": "snd_bhighg",
-  "duration": 0.0,
+  "soundFile": "snd_bhighg.mp3",
+  "duration": 2.021,
   "parent": {
     "name": "arm",
     "path": "folders/Sounds/arm.yy",
