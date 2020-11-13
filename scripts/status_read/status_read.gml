@@ -42,6 +42,7 @@ function status_read(buffer) {
 			}
 			global.player1_score = 0;
 			global.player2_score = 0;
+			global.timer = 0;
 			room_goto(rm_home);
 			break;
 		case STATUS.game_reset:

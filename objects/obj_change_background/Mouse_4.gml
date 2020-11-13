@@ -1,0 +1,1 @@
+global.nether = !global.nether

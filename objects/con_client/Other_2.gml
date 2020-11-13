@@ -13,6 +13,7 @@ global.stored_ai_keys = [];
 global.player_play = false;
 global.player1_score = 0;
 global.player2_score = 0;
+global.nether = false;
 
 global.perfect_pitch = PERFECT_PITCH.false;
 global.instrument = INSTRUMENT.piano;
@@ -24,3 +25,5 @@ global.wallpaper = WALLPAPER.overworld;
 global.hardness = HARDNESS.easy;
 
 audio_group_load(audio_group_load(audiogroup1));
+
+show_message("Welcome to DupMe!!");
